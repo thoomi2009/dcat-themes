@@ -24,7 +24,7 @@ use Thoomi\DcatThemes\Themes;
 Dcat\Admin\Color::extend('cuilv', Themes::getColors("cuilv"));
 ```
 
-## 配置config/admin.php
+### 配置config/admin.php
 - 打开config/admin.php
 - 找到 layout.color 配置为 'cuilv'
 ```php
@@ -37,17 +37,17 @@ Dcat\Admin\Color::extend('cuilv', Themes::getColors("cuilv"));
 
 ## 所有主题截图
 ### cuilv  
-   ![cuilv](http://jinghuicdn.huan.tv/project/public/dcat-themes/xnip-cuilv.jpg)
+   ![cuilv](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-cuilv.jpg)
 ### yunshanlan  
-   ![yunshanlan](http://jinghuicdn.huan.tv/project/public/dcat-themes/xnip-yunshanlan.jpg)
+   ![yunshanlan](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-yunshanlan.jpg)
 ### pipahuang  
-   ![pipahuang](http://jinghuicdn.huan.tv/project/public/dcat-themes/xnip-pipahuang.jpg)
+   ![pipahuang](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-pipahuang.jpg)
 ### budohnezumi  
-   ![budohnezumi](http://jinghuicdn.huan.tv/project/public/dcat-themes/xnip-budohnezumi.jpg)
+   ![budohnezumi](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-budohnezumi.jpg)
 ### veludo  
-   ![veludo](http://jinghuicdn.huan.tv/project/public/dcat-themes/xnip-veludo.jpg)
+   ![veludo](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-veludo.jpg)
 ### qingtinglan  
-   ![qingtinglan](http://jinghuicdn.huan.tv/project/public/dcat-themes/xnip-qingtinglan.jpg)
+   ![qingtinglan](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-qingtinglan.jpg)
 ### hehui  
-   ![hehui](http://jinghuicdn.huan.tv/project/public/dcat-themes/xnip-hehui.jpg)
+   ![hehui](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-hehui.jpg)
 
