@@ -37,17 +37,37 @@ Dcat\Admin\Color::extend('cuilv', Themes::getColors("cuilv"));
 
 ## 所有主题截图
 ### cuilv  
-   ![cuilv](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-cuilv.jpg)
+色值：#20a162
+
+![cuilv](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-cuilv.jpg)
+
 ### yunshanlan  
-   ![yunshanlan](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-yunshanlan.jpg)
+色值：#2f90b9
+
+![yunshanlan](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-yunshanlan.jpg)
+
 ### pipahuang  
-   ![pipahuang](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-pipahuang.jpg)
+色值：#fca106
+
+![pipahuang](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-pipahuang.jpg)
+
 ### budohnezumi  
-   ![budohnezumi](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-budohnezumi.jpg)
+色值：#5E3D50
+
+![budohnezumi](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-budohnezumi.jpg)
+
 ### veludo  
-   ![veludo](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-veludo.jpg)
+色值：#096148
+
+![veludo](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-veludo.jpg)
+
 ### qingtinglan  
-   ![qingtinglan](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-qingtinglan.jpg)
+色值：#3b818c
+
+![qingtinglan](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-qingtinglan.jpg)
+
 ### hehui  
-   ![hehui](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-hehui.jpg)
+色值：#4a4035
+
+![hehui](http://jinghuicdn.huan.tv/project/public/dcat-themes/mini-hehui.jpg)
 
