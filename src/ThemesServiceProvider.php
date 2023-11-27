@@ -3,14 +3,20 @@
 namespace Thoomi\DcatThemes;
 
 use Illuminate\Support\ServiceProvider;
+use Thoomi\DcatThemes\Themes;
 
 class ThemesServiceProvider extends ServiceProvider
 {
     public function boot()
     {
-        $this->publishes([
-            __DIR__ . "/../assets/css/dcat-app-cuilv.css" => public_path('vendor/dcat-admin/dcat/css/dcat-app-cuilv.css')
-        ]);
+        $themes = Themes::all();
+        $publishes = [];
+        foreach ($themes as $key => $colors) {
+            $source = __DIR__ . "/../assets/css/dcat-app-".$key.".css";
+            $to = public_path("vendor/dcat-admin/dcat/css/dcat-app-".$key.".css");
+            $publishes[$source] = $to;
+        }
+        $this->publishes($publishes);
     }
 
     public function register()
