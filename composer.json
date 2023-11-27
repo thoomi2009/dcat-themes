@@ -1,0 +1,25 @@
+{
+    "name": "thoomi2009/dcat-themes",
+    "description": "a dcat-admin plugin about themes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Thoomi\\DcatThemes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "thoomi",
+            "email": "thoomi@qq.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Thoomi\\DcatThemes\\ThemesServiceProvider"
+            ]
+        }
+    }
+}
